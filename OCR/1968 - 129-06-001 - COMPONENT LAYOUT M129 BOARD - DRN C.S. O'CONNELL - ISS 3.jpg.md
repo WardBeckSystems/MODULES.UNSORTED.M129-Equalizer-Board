@@ -32,7 +32,7 @@ Wiki page: [M129](../../../../PAGES/M129.md)
 - **Closed boxes:** 44
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1968 - 129-06-001 - COMPONENT LAYOUT M129 BOARD - DRN C.S. O'CONNELL - ISS 3 (traced).json](../SCHEMATICS/1968%20-%20129-06-001%20-%20COMPONENT%20LAYOUT%20M129%20BOARD%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%203%20(traced).json) (the CAD file: `1968 - 129-06-001 - COMPONENT LAYOUT M129 BOARD - DRN C.S. O'CONNELL - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 129-06-001 - COMPONENT LAYOUT M129 BOARD - DRN C.S. O'CONNELL - ISS 3 (traced).json](../SCHEMATICS/1968%20-%20129-06-001%20-%20COMPONENT%20LAYOUT%20M129%20BOARD%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1968 - 129-06-001 - COMPONENT LAYOUT M129 BOARD - DRN C.S. O'CONNELL - ISS 3 (traced).dxf`).
 
 ## Full text
 
