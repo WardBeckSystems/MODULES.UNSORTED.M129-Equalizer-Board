@@ -1,5 +1,5 @@
 # 1968 - 129-06-001 - COMPONENT LAYOUT M129 BOARD - DRN C.S. O'CONNELL - ISS 3.jpg
-Wiki page: [M129](../../../../PAGES/M129.md)
+Wiki page: [M129](../)
 
 
 - **Year:** 1968 (title block date)

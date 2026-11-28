@@ -1,5 +1,5 @@
 # 1968 - 129-06-002 - COMPONENT LAYOUT M129 BOARD (EQUALIZER SECTION) - DRN C.S. O'CONNELL - ISS 1.jpg
-Wiki page: [M129](../../../../PAGES/M129.md)
+Wiki page: [M129](../)
 
 
 - **Year:** 1968 (title block date)
